@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="iso-8559-1"/>
+   <meta name="description" content="Curso html 5"/>
+   <meta name="keywords" content="html5, css3, Javascript, diseño web"/>
+<title>
+</title>
+</head>
+<body>
+Esta es nuestra primera página web.
+</body>
+</html>
